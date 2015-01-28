@@ -1,1 +1,12 @@
-58 / 100
+64 / 100
+
+no tests on:
+-2: command with >10 arguments
+-2: command run in /bin directory
+-5: lots of commands chained together
+-10: mixing and matching diff. operators in one command
+-2: operators without spaces in between
+-5: exit with params  
+-5: exit as a param to another command
+-5: comment on a line ny itself
+-5: comment where '#' touches something
