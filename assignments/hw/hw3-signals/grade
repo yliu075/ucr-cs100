@@ -1,4 +1,4 @@
-33 / 100
+63 / 100
 
 PATH variable: 10/40
     [0/10] Execute a program in the working directory.
@@ -7,7 +7,7 @@ PATH variable: 10/40
     [0/10] Attempt to execute a program that does not exist.
            This should throw an error.
 
-^C signal: 0/30
+^C signal: 30/30
     [30/30] ^C when running a child process does not stop the entire shell.
 
 cd and prompt: 23/30
@@ -21,4 +21,4 @@ cd and prompt: 23/30
 extra credit: 0/20
     [0/20] ^z, fg, and bg
 
-Total: 33/100
+Total: 63/100
